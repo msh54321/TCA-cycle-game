@@ -1,1 +1,1 @@
-Fun game for learning the TCA cycle
+Fun game for learning the TCA cycle.
